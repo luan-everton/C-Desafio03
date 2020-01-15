@@ -1,0 +1,11 @@
+C:\Users\LNOI\source\repos\Desafio03\Desafio03\obj\Debug\netcoreapp3.1\Desafio03.csprojAssemblyReference.cache
+C:\Users\LNOI\source\repos\Desafio03\Desafio03\obj\Debug\netcoreapp3.1\Desafio03.AssemblyInfoInputs.cache
+C:\Users\LNOI\source\repos\Desafio03\Desafio03\obj\Debug\netcoreapp3.1\Desafio03.AssemblyInfo.cs
+C:\Users\LNOI\source\repos\Desafio03\Desafio03\bin\Debug\netcoreapp3.1\Desafio03.exe
+C:\Users\LNOI\source\repos\Desafio03\Desafio03\bin\Debug\netcoreapp3.1\Desafio03.deps.json
+C:\Users\LNOI\source\repos\Desafio03\Desafio03\bin\Debug\netcoreapp3.1\Desafio03.runtimeconfig.json
+C:\Users\LNOI\source\repos\Desafio03\Desafio03\bin\Debug\netcoreapp3.1\Desafio03.runtimeconfig.dev.json
+C:\Users\LNOI\source\repos\Desafio03\Desafio03\bin\Debug\netcoreapp3.1\Desafio03.dll
+C:\Users\LNOI\source\repos\Desafio03\Desafio03\bin\Debug\netcoreapp3.1\Desafio03.pdb
+C:\Users\LNOI\source\repos\Desafio03\Desafio03\obj\Debug\netcoreapp3.1\Desafio03.dll
+C:\Users\LNOI\source\repos\Desafio03\Desafio03\obj\Debug\netcoreapp3.1\Desafio03.pdb
